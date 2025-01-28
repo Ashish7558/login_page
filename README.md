@@ -1,2 +1,2 @@
 # login_page
-User auth made easy
+User auth made easier than ever
